@@ -5,8 +5,8 @@
   
   <entry>
     <title>testArticle</title>
-    <link href="/project/2023/04/06/testArticle/"/>
-    <url>/project/2023/04/06/testArticle/</url>
+    <link href="/2023/04/06/testArticle/"/>
+    <url>/2023/04/06/testArticle/</url>
     
     <content type="html"><![CDATA[<p>hello, world</p><p>this is a test docs</p>]]></content>
     
@@ -26,10 +26,10 @@
   
   <entry>
     <title>vincent🛖</title>
-    <link href="/project/2023/04/06/test/"/>
-    <url>/project/2023/04/06/test/</url>
+    <link href="/2023/04/06/test/"/>
+    <url>/2023/04/06/test/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇用于测试的文章</p><p>图片</p><img src="/project/2023/04/06/test/dreamland.png" class="" title="图片1">]]></content>
+    <content type="html"><![CDATA[<p>这是一篇用于测试的文章</p><p>图片</p><img src="/2023/04/06/test/dreamland.png" class="" title="图片1">]]></content>
     
     
     
