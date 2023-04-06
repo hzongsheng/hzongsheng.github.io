@@ -8,7 +8,7 @@
     <link href="/project/2023/04/06/test/"/>
     <url>/project/2023/04/06/test/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇用于测试的文章</p><img src="/2023/04/06/test/dreamland.png" class="" title="图片1">]]></content>
+    <content type="html"><![CDATA[<p>这是一篇用于测试的文章</p><p>图片</p><img src="/project/2023/04/06/test/dreamland.png" class="" title="图片1"><p>图片markdown格式<br><img src="/project/dreamland.png" alt="md_image"></p>]]></content>
     
     
     
