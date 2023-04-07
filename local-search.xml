@@ -32,6 +32,12 @@
     <content type="html"><![CDATA[<p>这是一篇用于测试的文章</p><p>图片</p><img src="/2023/04/06/test/dreamland.png" class="" title="图片1">]]></content>
     
     
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
     
     <tags>
       
